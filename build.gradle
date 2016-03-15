@@ -1,3 +1,6 @@
+//Thanks to killjoy on #ForgeGradle for help
+//original https://gist.github.com/killjoy1221/b4557d40b9972828a7fd
+
 buildscript {
 	repositories {
 		jcenter()
